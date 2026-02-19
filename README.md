@@ -23,45 +23,12 @@ I have hands-on experience developing complete full-stack systems, RESTful APIs,
 ```js
 
 const techStack = {
-  backend: [
-    'PHP',
-    'Laravel',
-    'RESTful APIs',
-    'MVC Architecture',
-    'Authentication & Authorization',
-    'API Integration'
-  ],
-
-  frontend: [
-    'JavaScript',
-    'Vue.js',
-    'HTML5',
-    'CSS3',
-    'Responsive Web Design'
-  ],
-
-  database: [
-    'MySQL',
-    'Database Design',
-    'Query Optimization'
-  ],
-
-  devTools: [
-    'Git',
-    'GitHub',
-    'Postman',
-    'API Testing'
-  ],
-
-  problemSolving: [
-    'Data Structures',
-    'Algorithms',
-    'LeetCode Practice'
-  ],
-
-  additional: [
-    'Basic AI System Integration'
-  ]
+  backend: ['PHP','Laravel','RESTful APIs','MVC Architecture','Authentication & Authorization','API Integration'],
+  frontend: ['JavaScript','Vue.js','HTML5','CSS3','Responsive Web Design'],
+  database: ['MySQL','Database Design','Query Optimization'],
+  devTools: ['Git','GitHub','Postman','API Testing'],
+  problemSolving: ['Data Structures','Algorithms','LeetCode Practice'],
+  additional: ['Basic AI System Integration']
 };
 
 ```
