@@ -18,38 +18,53 @@ I have hands-on experience developing complete full-stack systems, RESTful APIs,
 
 ---
 
-## 🛠️ Core Technical Skills
+## 🚀 Tech Stack
 
-### Backend Development
-- PHP
-- Laravel
-- RESTful API Development
-- MVC Architecture
-- Authentication & Authorization
-- API Integration
+```js
+// Production-Focused Developer Profile
 
-### Frontend Development
-- JavaScript
-- Vue.js
-- HTML5
-- CSS3
-- Responsive Web Design
+const developerProfile = {
+  role: "Laravel Developer | Full Stack Web Developer",
 
-### Database
-- MySQL
-- Database Design
-- Query Optimization
+  backend: {
+    language: "PHP",
+    framework: "Laravel",
+    architecture: ["MVC", "RESTful API Design", "Service-Based Structure"],
+    security: ["Authentication", "Authorization", "Secure API Handling"]
+  },
 
-### Tools & Workflow
-- Git & GitHub
-- Postman
-- API Testing
-- Clean Code Practices
+  frontend: {
+    core: ["JavaScript (ES6+)", "Vue.js"],
+    markup_style: ["HTML5", "CSS3"],
+    focus: ["Responsive Design", "Clean UI Integration"]
+  },
 
-### Additional Strength
-- Data Structures & Algorithms
-- LeetCode Problem Solving
-- Basic AI System Integration
+  database: {
+    primary: "MySQL",
+    strengths: ["Relational Schema Design", "Query Optimization", "Performance Tuning"]
+  },
+
+  engineering_principles: [
+    "Clean Code",
+    "Scalable Architecture",
+    "Separation of Concerns",
+    "Maintainability",
+    "Performance Optimization"
+  ],
+
+  tooling: ["Git", "GitHub", "Postman", "API Testing"],
+
+  problemSolving: {
+    focus: ["Data Structures", "Algorithms"],
+    platform: "LeetCode"
+  },
+
+  additional_experience: [
+    "AI Integration with Web Systems",
+    "System Design Thinking"
+  ]
+};
+```
 
 ---
 
