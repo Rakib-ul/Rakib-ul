@@ -53,28 +53,6 @@ I have hands-on experience developing complete full-stack systems, RESTful APIs,
 
 ---
 
-## 🚀 Highlighted Projects
-
-### 🔹 AI-Based Face Verification System
-**Laravel + Vue.js + Flask + DeepFace + MySQL**
-- Live face capture and verification
-- REST API communication between services
-- Secure identity validation system
-- Database-driven architecture
-
-### 🔹 AI-Based People Counting System
-- Real-time detection system
-- Backend API handling
-- Web dashboard with live data
-- Intelligent data processing workflow
-
-### 🔹 Resume Builder & Job Automation Platform (In Progress)
-**Laravel + Vue.js**
-- Dynamic resume generation based on job description
-- Structured database architecture
-- Intelligent system design
-
----
 
 ## 🧠 Problem Solving
 
