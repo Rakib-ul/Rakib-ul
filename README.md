@@ -21,7 +21,6 @@ I have hands-on experience developing complete full-stack systems, RESTful APIs,
 ## 🚀 Tech Stack
 
 ```js
-// Production-Focused Developer Profile
 
 const developerProfile = {
   role: "Laravel Developer | Full Stack Web Developer",
