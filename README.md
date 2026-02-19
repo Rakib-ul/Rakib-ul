@@ -22,47 +22,48 @@ I have hands-on experience developing complete full-stack systems, RESTful APIs,
 
 ```js
 
-const developerProfile = {
-  role: "Laravel Developer | Full Stack Web Developer",
-
-  backend: {
-    language: "PHP",
-    framework: "Laravel",
-    architecture: ["MVC", "RESTful API Design", "Service-Based Structure"],
-    security: ["Authentication", "Authorization", "Secure API Handling"]
-  },
-
-  frontend: {
-    core: ["JavaScript (ES6+)", "Vue.js"],
-    markup_style: ["HTML5", "CSS3"],
-    focus: ["Responsive Design", "Clean UI Integration"]
-  },
-
-  database: {
-    primary: "MySQL",
-    strengths: ["Relational Schema Design", "Query Optimization", "Performance Tuning"]
-  },
-
-  engineering_principles: [
-    "Clean Code",
-    "Scalable Architecture",
-    "Separation of Concerns",
-    "Maintainability",
-    "Performance Optimization"
+const techStack = {
+  backend: [
+    'PHP',
+    'Laravel',
+    'RESTful APIs',
+    'MVC Architecture',
+    'Authentication & Authorization',
+    'API Integration'
   ],
 
-  tooling: ["Git", "GitHub", "Postman", "API Testing"],
+  frontend: [
+    'JavaScript',
+    'Vue.js',
+    'HTML5',
+    'CSS3',
+    'Responsive Web Design'
+  ],
 
-  problemSolving: {
-    focus: ["Data Structures", "Algorithms"],
-    platform: "LeetCode"
-  },
+  database: [
+    'MySQL',
+    'Database Design',
+    'Query Optimization'
+  ],
 
-  additional_experience: [
-    "AI Integration with Web Systems",
-    "System Design Thinking"
+  devTools: [
+    'Git',
+    'GitHub',
+    'Postman',
+    'API Testing'
+  ],
+
+  problemSolving: [
+    'Data Structures',
+    'Algorithms',
+    'LeetCode Practice'
+  ],
+
+  additional: [
+    'Basic AI System Integration'
   ]
 };
+
 ```
 
 ---
