@@ -83,13 +83,6 @@ I actively practice algorithms and data structures to strengthen my logical thin
 LeetCode Profile:
 👉 https://leetcode.com/u/MaPMM4GYOF/
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakib-ul&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-ul&layout=compact&theme=tokyonight)
 
 ---
 
